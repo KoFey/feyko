@@ -1,0 +1,21 @@
+.preloader {
+    background-color: white;
+    overflow: hidden;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+}
+
+.gif {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background-image: url(../img/Пакман.gif);
+    width: 64px;
+    height: 64px;
+}
